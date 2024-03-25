@@ -1,5 +1,5 @@
 # kedifirarda
-geliştirlmeye açık basit bir oyun projesi
+geliştirlmeye açık basit bir oyun projesi unityhub + c#
 
 Oyun Adı: KediFirarda
 Oyunun Amacı:
